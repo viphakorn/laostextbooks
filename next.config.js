@@ -1,13 +1,5 @@
-const pathPrefix = process.env.NODE_ENV === 'production'
-  ? '/laostextbooks'
-  : '';
-
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  assetPrefix: pathPrefix,
-  env: {
-    pathPrefix,
-  },
   output: "export",
   images: {
     loader: "custom",
