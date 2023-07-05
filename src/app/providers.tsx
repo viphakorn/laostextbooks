@@ -11,5 +11,9 @@ export function Providers({ children }: { children: React.ReactNode }) {
 
   if (!mounted) return children
 
-  return <ThemeProvider attribute="class">{children}</ThemeProvider>
+  return (
+    <ThemeProvider attribute="class" enableSystem defaultTheme="dark">
+      {children}
+    </ThemeProvider>
+  )
 }

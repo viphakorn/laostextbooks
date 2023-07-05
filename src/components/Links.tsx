@@ -1,6 +1,6 @@
 import { AcademicCapIcon, Bars3Icon, HomeIcon } from "@heroicons/react/24/solid"
 
-export const links = [
+const links = [
   {
     link: "/",
     label: "ໜ້າຫຼັກ",
@@ -27,3 +27,4 @@ export const links = [
     icon: AcademicCapIcon,
   },
 ]
+export default links
