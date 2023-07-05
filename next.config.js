@@ -1,5 +1,5 @@
 const pathPrefix = process.env.NODE_ENV === 'production'
-  ? '/laostextbooks
+  ? '/laostextbooks'
   : '';
 
 /** @type {import('next').NextConfig} */
