@@ -5,8 +5,11 @@ import { Fragment } from "react"
 import { Menu, Transition } from "@headlessui/react"
 import { Bars3Icon } from "@heroicons/react/24/solid"
 import links from "./Links"
+import { usePathname } from "next/navigation"
+import { twMerge } from "tailwind-merge"
 
 export default function NavigationMenu() {
+  const pathname = usePathname()
   return (
     <Menu as="nav" className="flex items-center">
       <Menu.Button className="text-slate-700 transition hover:text-sky-400 dark:text-white dark:hover:text-sky-400">
@@ -25,11 +28,14 @@ export default function NavigationMenu() {
         <Menu.Items as="ul" className="absolute top-full mt-4 rounded-md border-2 border-slate-900/10 bg-white shadow-lg dark:border-sky-400/10 dark:bg-slate-900">
           {links.map(({ link, label, icon: Icon }) => (
             <Menu.Item as="li" key={link}>
-              {({ close }) => (
+              {({ close, active }) => (
                 <Link
                   href={link}
                   onClick={close}
-                  className="flex items-center gap-4 px-8 py-4 text-slate-700 transition hover:bg-slate-100 hover:text-sky-400 dark:text-white dark:hover:bg-slate-800 dark:hover:text-sky-400"
+                  className={twMerge(
+                    "flex items-center gap-4 px-8 py-4 text-slate-700 transition hover:bg-slate-100 hover:text-sky-400 dark:text-white dark:hover:bg-slate-800 dark:hover:text-sky-400",
+                    pathname === link && "bg-slate-100 text-sky-400 dark:bg-slate-800 dark:text-sky-400"
+                  )}
                 >
                   <Icon className="h6 w-6" />
                   {label}

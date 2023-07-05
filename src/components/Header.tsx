@@ -14,8 +14,8 @@ export default function Header() {
       <div className="container relative flex h-16 items-center justify-between">
         <NavigationMenu />
         <Link href="/" className="logo flex items-center gap-2">
-          <ExportedImage src={Logo} alt="" className="w-16" />
-          <h2 className="bg-gradient-to-r from-sky-400 to-sky-500 bg-clip-text text-2xl font-black text-sky-400 text-transparent">Laos TextBooks</h2>
+          <ExportedImage src={Logo} alt="" className="w-12 sm:w-16" />
+          <h2 className="whitespace-nowrap bg-gradient-to-r from-sky-400 to-sky-500 bg-clip-text text-xl font-black text-sky-400 text-transparent sm:text-2xl">Laos TextBooks</h2>
           <span className="sr-only">ປຶ້ມແບບຮຽນ ປຶ້ມຄູ່ມືຄູ</span>
         </Link>
         <ThemeSwitcher />

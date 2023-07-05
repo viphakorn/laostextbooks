@@ -67,7 +67,7 @@ export default function ThemeSwitcher() {
                   className={twMerge(
                     "flex cursor-pointer items-center gap-4 px-8 py-4 text-slate-700 transition hover:bg-slate-100 hover:text-sky-400 dark:text-white dark:hover:bg-slate-800 dark:hover:text-sky-400",
                     selected && "text-sky-400",
-                    active && "bg-slate-100 dark:bg-slate-800"
+                    active && "bg-slate-100 text-sky-400 dark:bg-slate-800 dark:text-sky-400"
                   )}
                 >
                   <Icon className="\ h-6 w-6" />
