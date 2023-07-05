@@ -1,0 +1,621 @@
+{
+    "id": "secondary-guide",
+    "name": "ປຶ້ມຄູ່ມືມັດທະຍົມ",
+    "grades": [
+        {
+            "grade": "ປຶ້ມຄູ່ມືຄູ ມ1",
+            "books": [
+                {
+                    "subject": "ຄະນິດສາດ",
+                    "image": "m1-maths-tg",
+                    "pdf": "https://drive.google.com/file/d/1UaFhrqJs4LglH73zHniQJJjVH9ybsZ0a"
+                },
+                {
+                    "subject": "ສິລະປະກຳ",
+                    "image": "m1-arts-tg",
+                    "pdf": "https://drive.google.com/file/d/12BDPk9LAKNvigkuTQclNENgX_KEKOQb_"
+                },
+                {
+                    "subject": "ສິລະປະດົນຕີ",
+                    "image": "m1-music-tg",
+                    "pdf": "https://drive.google.com/file/d/1Yaowcm-qS8zAguxrYtp0uT2sMIemqtjT"
+                },
+                {
+                    "subject": "ສຶກສາພົນລະເມືອງ",
+                    "image": "m1-civic-tg",
+                    "pdf": "https://drive.google.com/file/d/1iKaMnGrKLnqoDcAuPUhAtXtiP5nQBiHf"
+                },
+                {
+                    "subject": "ເທັກໂນໂລຊີຂໍ້ມູນຂ່າວສານ & ການສື່ສານ",
+                    "image": "m1-ict-tg",
+                    "pdf": "https://drive.google.com/file/d/13yACZVPya5QhTDI1zOgBoIDjQQ3b5bVd"
+                },
+                {
+                    "subject": "ປະຫວັດສາດ",
+                    "image": "m1-history-tg",
+                    "pdf": "https://drive.google.com/file/d/1bR1xn16ee90i505HKx0D9vnD6K_fFkYh"
+                },
+                {
+                    "subject": "ພະລະສຶກສາ",
+                    "image": "m1-physical-tg",
+                    "pdf": "https://drive.google.com/file/d/1Dq6a_1ZXgCII0eEKVTjNjCztmEVloJJy"
+                },
+                {
+                    "subject": "ພາສາຝຣັ່ງ",
+                    "image": "m1-french-tg",
+                    "pdf": "https://drive.google.com/file/d/15U7shfJn_P1wjbP1_uMPsakWZijyWrtY"
+                },
+                {
+                    "subject": "ພາສາລາວ",
+                    "image": "m1-lao-tg",
+                    "pdf": "https://drive.google.com/file/d/10K6N3iH3lmEqfNPCoqYbicvDsUCKxoxt"
+                },
+                {
+                    "subject": "ພາສາອັງກິດ",
+                    "image": "m1-english-tg",
+                    "pdf": "https://drive.google.com/file/d/1Nt3CNMgR1G23Z213a2G-aZstMDoQ14w1"
+                },
+                {
+                    "subject": "ພື້ນຖານວິຊາຊີບ",
+                    "image": "m1-basic-tg",
+                    "pdf": "https://drive.google.com/file/d/1u9d9HEHZILOk4-rPHN8_KAsE-rz5hjJj"
+                },
+                {
+                    "subject": "ພູມສາດ",
+                    "image": "m1-geography-tg",
+                    "pdf": "https://drive.google.com/file/d/1IbV761Kyz2N7ga9VdRWmesfW2RyZYAO1"
+                },
+                {
+                    "subject": "ວັນນະຄະດີ",
+                    "image": "m1-literature-tg",
+                    "pdf": "https://drive.google.com/file/d/16u5GjDIOA7Vcs90hk09NlnkPYftx_7K1"
+                },
+                {
+                    "subject": "ວິທະຍາສາດທຳມະຊາດ",
+                    "image": "m1-natsci-tg",
+                    "pdf": "https://drive.google.com/file/d/1jeuVFYeWKnFkJxG4yL-a-3eZhddOMDQn"
+                }
+            ]
+        },
+        {
+            "grade": "ປຶ້ມຄູ່ມືຄູ ມ2",
+            "books": [
+                {
+                    "subject": "ຄະນິດສາດ",
+                    "image": "m2-maths-tg",
+                    "pdf": "https://drive.google.com/file/d/1V9ocy0-JLb_tiWMj2ltc726M_eyeGnAx"
+                },
+                {
+                    "subject": "ສິລະປະກຳ",
+                    "image": "m2-arts-tg",
+                    "pdf": "https://drive.google.com/file/d/1L7PYSItBBYD5B_7MdIh_eqK-KCU33NtV"
+                },
+                {
+                    "subject": "ສິລະປະດົນຕີ",
+                    "image": "m2-music-tg",
+                    "pdf": "https://drive.google.com/file/d/1OR-21lLZ8pVOkBX5IbcVyfMMGzb8u1st"
+                },
+                {
+                    "subject": "ສຶກສາພົນລະເມືອງ",
+                    "image": "m2-civic-tg",
+                    "pdf": "https://drive.google.com/file/d/1sSFpfLHBkMhSISiTq-2nSwtJ-xGZJyiu"
+                },
+                {
+                    "subject": "ເທັກໂນໂລຊີຂໍ້ມູນຂ່າວສານ & ການສື່ສານ",
+                    "image": "m2-ict-tg",
+                    "pdf": "https://drive.google.com/file/d/1j3NlTjlzsvczYBQpCDRW_NtruMdL5CxO"
+                },
+                {
+                    "subject": "ປະຫວັດສາດ",
+                    "image": "m2-history-tg",
+                    "pdf": "https://drive.google.com/file/d/1hvdYwK0ruVhT8nwZgj9OwjBg83IeJ1sT"
+                },
+                {
+                    "subject": "ພະລະສຶກສາ",
+                    "image": "m2-english-tg",
+                    "pdf": "https://drive.google.com/file/d/1n0S-ZOogeVeMlO_M9USsPAMxg_ycS16L"
+                },
+                {
+                    "subject": "ພາສາຍີ່ປຸ່ນ",
+                    "image": "m2-japan-tg",
+                    "pdf": "https://drive.google.com/file/d/1MQ3snStV8jGKXg1aNZNUVIyGCP7de2Ux"
+                },
+                {
+                    "subject": "ພາສາຝຣັ່ງ",
+                    "image": "m2-physical-tg",
+                    "pdf": "https://drive.google.com/file/d/1bNpC2vGMoJdP1ZfoZXmyWQYcifzeamGH"
+                },
+                {
+                    "subject": "ພາສາລາວ",
+                    "image": "m2-french-tg",
+                    "pdf": "https://drive.google.com/file/d/1vexJhQQl74QDC8Z89XVGrrulFDX8C07W"
+                },
+                {
+                    "subject": "ພາສາອັງກິດ",
+                    "image": "m2-lao-tg",
+                    "pdf": "https://drive.google.com/file/d/1pGhEK1dMb2fL1XNrCLjEglXLQllaNyUy"
+                },
+                {
+                    "subject": "ພື້ນຖານວິຊາຊີບ",
+                    "image": "m2-basic-tg",
+                    "pdf": "https://drive.google.com/file/d/1jeDoBAYfsrIj7ARfMchUVUIU6h93cgT5"
+                },
+                {
+                    "subject": "ພູມສາດ",
+                    "image": "m2-geography-tg",
+                    "pdf": "https://drive.google.com/file/d/17x03cwoBeCIZHwqr2GL0wyAiTWhBuPCC"
+                },
+                {
+                    "subject": "ວັນນະຄະດີ",
+                    "image": "m2-literature-tg",
+                    "pdf": "https://drive.google.com/file/d/1j8nElkykSfpt-wVMb3x-FMLCKKGQynJM"
+                },
+                {
+                    "subject": "ວິທະຍາສາດທຳມະຊາດ",
+                    "image": "m2-literature-tg",
+                    "pdf": "https://drive.google.com/file/d/1GYwsHpeiA45Ky7i7bkBvSgbsy5us8wFv"
+                }
+            ]
+        },
+        {
+            "grade": "ປຶ້ມຄູ່ມືຄູ ມ3",
+            "books": [
+                {
+                    "subject": "ຄະນິດສາດ",
+                    "image": "m3-maths-tg",
+                    "pdf": "https://drive.google.com/file/d/1EnRAzKyfM77y2lhGWwQ545VcxUHmffZK"
+                },
+                {
+                    "subject": "ສິລະປະກຳ",
+                    "image": "m3-arts-tg",
+                    "pdf": "https://drive.google.com/file/d/1Lo-VLNzFTsliCKuYylkuYCurRI_jccC3"
+                },
+                {
+                    "subject": "ສິລະປະດົນຕີ",
+                    "image": "m3-music-tg",
+                    "pdf": "https://drive.google.com/file/d/1Fz3Dj1GtqRF17lVy7C8xMOn87tIZEfs0"
+                },
+                {
+                    "subject": "ສຶກສາພົນລະເມືອງ",
+                    "image": "m3-civic-tg",
+                    "pdf": "https://drive.google.com/file/d/13CTlakPxBhvVi4m4fCuAr4EXm_cU0ZGl"
+                },
+                {
+                    "subject": "ເທັກໂນໂລຊີຂໍ້ມູນຂ່າວສານ & ການສື່ສານ",
+                    "image": "m3-ict-tg",
+                    "pdf": "https://drive.google.com/file/d/1CICZet6ZGhl9oqArrTSvRmhQpHauFoUh"
+                },
+                {
+                    "subject": "ປະຫວັດສາດ",
+                    "image": "m3-history-tg",
+                    "pdf": "https://drive.google.com/file/d/11FRff2ZhGwcH4p_CVVdHY4uq09AKHEWX"
+                },
+                {
+                    "subject": "ພະລະສຶກສາ",
+                    "image": "m3-physical-tg",
+                    "pdf": "https://drive.google.com/file/d/1WJCFmKoj4YUgLPdokbSihSUomsG6sdeN"
+                },
+                {
+                    "subject": "ພາສາຍີ່ປຸ່ນ",
+                    "image": "m3-japan-tg",
+                    "pdf": "https://drive.google.com/file/d/1HN8NMRGs6pZwisnh-SeVTn_e_8WplRpa"
+                },
+                {
+                    "subject": "ພາສາຝຣັ່ງ",
+                    "image": "m3-french-tg",
+                    "pdf": "https://drive.google.com/file/d/1qJdGVg40Z2B1hhMukwYWxNFaEuNHQYnL"
+                },
+                {
+                    "subject": "ພາສາລາວ",
+                    "image": "m3-lao-tg",
+                    "pdf": "https://drive.google.com/file/d/1NwomDyl6jQXhx8idL4SOJ0Gfui64A9lM"
+                },
+                {
+                    "subject": "ພາສາອັງກິດ",
+                    "image": "m3-english-tg",
+                    "pdf": "https://drive.google.com/file/d/1QZsTUc1ujhcLTsy0YZlZIo21YrJtJERm"
+                },
+                {
+                    "subject": "ພື້ນຖານວິຊາຊີບ",
+                    "image": "m3-basic-tg",
+                    "pdf": "https://drive.google.com/file/d/1pefP4t6PhbPiAVQ-3w5CZbMSthLPFs39"
+                },
+                {
+                    "subject": "ພູມສາດ",
+                    "image": "m3-geography-tg",
+                    "pdf": "https://drive.google.com/file/d/1yaSHplBKa3xwPuHZQ4OiAajtx7e9eZI-"
+                },
+                {
+                    "subject": "ວັນນະຄະດີ",
+                    "image": "m3-literature-tg",
+                    "pdf": "https://drive.google.com/file/d/1LutSxEuTTAsXKPnSHp2o_IjWuwHdAXMG"
+                },
+                {
+                    "subject": "ວິທະຍາສາດທຳມະຊາດ",
+                    "image": "m3-natsci-tg",
+                    "pdf": "https://drive.google.com/file/d/1QnY7k35Ck5hKV1v3OGMU6R3z5ypcC7aP"
+                }
+            ]
+        },
+        {
+            "grade": "ປຶ້ມຄູ່ມືຄູ ມ4",
+            "books": [
+                {
+                    "subject": "ຄະນິດສາດ",
+                    "image": "m4-maths-tg",
+                    "pdf": "https://drive.google.com/file/d/1a9dHcYUe4LAb0Oc5WXlQ-tAYt022OX7I"
+                },
+                {
+                    "subject": "ສິລະປະກຳ",
+                    "image": "m4-arts-tg",
+                    "pdf": "https://drive.google.com/file/d/1ue-bec10DRcjEb_EsnsSmccmo_KYpO-d"
+                },
+                {
+                    "subject": "ສິລະປະດົນຕີ",
+                    "image": "m4-music-tg",
+                    "pdf": "https://drive.google.com/file/d/1bX3ADGphKFdr91SqLGWuiLq9Xig3bZpA"
+                },
+                {
+                    "subject": "ສຶກສາພົນລະເມືອງ",
+                    "image": "m4-civic-tg",
+                    "pdf": "https://drive.google.com/file/d/1CNiZarHW3kA4SSJF3NbcPOidcywB1P0j"
+                },
+                {
+                    "subject": "ເທັກໂນໂລຊີຂໍ້ມູນຂ່າວສານ & ການສື່ສານ",
+                    "image": "m4-ict-tg",
+                    "pdf": "https://drive.google.com/file/d/1RDVdxK9udqlvjdmrtlsTI3o7IDhCw31l"
+                },
+                {
+                    "subject": "ປະຫວັດສາດ",
+                    "image": "m4-history-tg",
+                    "pdf": "https://drive.google.com/file/d/1iRo69b1bt2UeZu7WOotJTvFJoLD2-mX6"
+                },
+                {
+                    "subject": "ພະລະສຶກສາ",
+                    "image": "m4-physical-tg",
+                    "pdf": "https://drive.google.com/file/d/1kFoH-ns2pL-kNRuM4hJKz9F_CEfoMD9G"
+                },
+                {
+                    "subject": "ພາສາຝຣັ່ງ",
+                    "image": "m4-french-tg",
+                    "pdf": "https://drive.google.com/file/d/1S3PjYXVnm9ckJgm2761uT4AfJmw1LCF0"
+                },
+                {
+                    "subject": "ພາສາລາວ",
+                    "image": "m4-lao-tg",
+                    "pdf": "https://drive.google.com/file/d/1PTuype32IPSfke5lujVNKljEJrIgtzZO"
+                },
+                {
+                    "subject": "ພາສາອັງກິດ",
+                    "image": "m4-english-tg",
+                    "pdf": "https://drive.google.com/file/d/1GVsMxtOvlMXsgbeRc5LuLVQRbVVxgxFJ"
+                },
+                {
+                    "subject": "ພື້ນຖານວິຊາຊີບ",
+                    "image": "m4-basic-tg",
+                    "pdf": "https://drive.google.com/file/d/1iGAAHP0FHSkhzU8QereBSshft0a24eeA"
+                },
+                {
+                    "subject": "ພູມສາດ",
+                    "image": "m4-geography-tg",
+                    "pdf": "https://drive.google.com/file/d/1jGcbk-iFPf4K5EvzHKKIZLOsraj-qX-a"
+                },
+                {
+                    "subject": "ວັນນະຄະດີ",
+                    "image": "m4-literature-tg",
+                    "pdf": "https://drive.google.com/file/d/1C7xMKOtmSxDjCJ09cCAbO5aLrSF46f7z"
+                },
+                {
+                    "subject": "ວິທະຍາສາດທຳມະຊາດ",
+                    "image": "m4-natsci-tg",
+                    "pdf": "https://drive.google.com/file/d/1Idj-E2smaNESlckoOLNvTxfmXPuRLdvd"
+                }
+            ]
+        },
+        {
+            "grade": "ປຶ້ມຄູ່ມືຄູ ມ5",
+            "books": [
+                {
+                    "subject": "ກໍ່ສ້າງເຄຫະສະຖານ",
+                    "image": "m5-architecture-tg",
+                    "pdf": "https://drive.google.com/file/d/13YLU4N4YKjCDDcj3R8Zenk0IGkVfGXbJ"
+                },
+                {
+                    "subject": "ກະສິກຳ",
+                    "image": "m5-agriculture-tg",
+                    "pdf": "https://drive.google.com/file/d/1JUnxr9F_zAil_KGUZ5gxSdfOJ1inLZmn"
+                },
+                {
+                    "subject": "ການເຮືອນ",
+                    "image": "m5-homeeconomy-tg",
+                    "pdf": "https://drive.google.com/file/d/1Nua1HaV_4U6OZqiPymeEodE5Na6j-Ana"
+                },
+                {
+                    "subject": "ຄະນິດສາດ",
+                    "image": "m5-maths-tg",
+                    "pdf": "https://drive.google.com/file/d/1KZpLyndF5pEyo6hLAZ6MOMPrvqWdOYxw"
+                },
+                {
+                    "subject": "ເຄມີສາດ",
+                    "image": "m5-chemistry-tg",
+                    "pdf": "https://drive.google.com/file/d/1Hs5HBjCNLlW8wCpB3P9hLneeYOmJkRwy"
+                },
+                {
+                    "subject": "ສິລະປະກຳ",
+                    "image": "m5-arts-tg",
+                    "pdf": "https://drive.google.com/file/d/1Wiza4Bf6rLzbgNCiYXHDho1tAU-pD5Jw"
+                },
+                {
+                    "subject": "ສຶກສາພົນລະເມືອງ",
+                    "image": "m5-civic-tg",
+                    "pdf": "https://drive.google.com/file/d/1Hmgo3lo-oIz8mnaQs_JmK14g9LRs8NvZ"
+                },
+                {
+                    "subject": "ຊ່າງໄຟຟ້າ",
+                    "image": "m5-electric-tg",
+                    "pdf": "https://drive.google.com/file/d/1DWjTlSsUH5dgDwZic3zLq5Tfg4YlJQ_t"
+                },
+                {
+                    "subject": "ຊ່າງລົດຍົນ",
+                    "image": "m5-automechanic-tg",
+                    "pdf": "https://drive.google.com/file/d/1lquhPYbZfsEaW7msz_dPOLQQMJAN5uZ2"
+                },
+                {
+                    "subject": "ຊີວະວິທະຍາ",
+                    "image": "m5-biology-tg",
+                    "pdf": "https://drive.google.com/file/d/1JqSrtqb7OBG0oyM_LVpRzUDLqCYZEGvz"
+                },
+                {
+                    "subject": "ທຸລະກິດ",
+                    "image": "m5-business-tg",
+                    "pdf": "https://drive.google.com/file/d/1H_RACLJT8x2VOh6NQMHtn8vGAZ2EqTFv"
+                },
+                {
+                    "subject": "ທຸລະກິດສຳລັບຮຽນຄວບກັບ 6 ສາຂາວິຊາ",
+                    "image": "m5-business6-tg",
+                    "pdf": "https://drive.google.com/file/d/1QuxKWTcPnCgNQLk4fzFWK1Pz04S5we2K"
+                },
+                {
+                    "subject": "ເທັກໂນໂລຊີຂໍ້ມູນຂ່າວສານ & ການສື່ສານ",
+                    "image": "m5-ict-tg",
+                    "pdf": "https://drive.google.com/file/d/1fi1w5kFmZvMVtT7th3DlqOAf8YF2cuX9"
+                },
+                {
+                    "subject": "ປະຫວັດສາດ",
+                    "image": "m5-history-tg",
+                    "pdf": "https://drive.google.com/file/d/1UMAG6lcYKTKiFtd7pIttHu2R-ChBRJHy"
+                },
+                {
+                    "subject": "ພະລະສຶກສາ",
+                    "image": "m5-physical-tg",
+                    "pdf": "https://drive.google.com/file/d/11N0A5QWFO-sZFztLbxGHQ3kBgdoH5y_l"
+                },
+                {
+                    "subject": "ພາສາຝຣັ່ງ",
+                    "image": "m5-french-tg",
+                    "pdf": "https://drive.google.com/file/d/1EuEeCBSQlypP_rHPr9iQ2chu8fuoEDGj"
+                },
+                {
+                    "subject": "ພາສາລາວ",
+                    "image": "m5-lao-tg",
+                    "pdf": "https://drive.google.com/file/d/1TCb_Ka4cLGrwNrnN28RR6tK81IEWiosE"
+                },
+                {
+                    "subject": "ພາສາອັງກິດ",
+                    "image": "m5-english-tg",
+                    "pdf": "https://drive.google.com/file/d/1eb-u6rqBHwlTjbEIhvo47yRl3lfFHfgg"
+                },
+                {
+                    "subject": "ພູມສາດ",
+                    "image": "m5-geography-tg",
+                    "pdf": "https://drive.google.com/file/d/172858tSLhcBHTRKfuO_CeIIXwzuXzVKY"
+                },
+                {
+                    "subject": "ຟີຊິກສາດ",
+                    "image": "m5-physics-tg",
+                    "pdf": "https://drive.google.com/file/d/11aW8Zgk5fhBJzr9pojseqtFZCOVoCI7i"
+                },
+                {
+                    "subject": "ວັນນະຄະດີ",
+                    "image": "m5-literature-tg",
+                    "pdf": "https://drive.google.com/file/d/1mGUzGQYYYcGhIeJpzEiQg6abBRrp5Qv-"
+                }
+            ]
+        },
+        {
+            "grade": "ປຶ້ມຄູ່ມືຄູ ມ6",
+            "books": [
+                {
+                    "subject": "ກໍ່ສ້າງເຄຫະສະຖານ",
+                    "image": "m6-architecture-tg",
+                    "pdf": "https://drive.google.com/file/d/1edtHMypkTMe7GbaO7bRYLHUHxxP6jLBv"
+                },
+                {
+                    "subject": "ກະສິກຳ",
+                    "image": "m6-agriculture-tg",
+                    "pdf": "https://drive.google.com/file/d/1LIgLbv9O46meQFWYFALJI2Ud1GOiEjuW"
+                },
+                {
+                    "subject": "ການເຮືອນ",
+                    "image": "m6-homeeconomy-tg",
+                    "pdf": "https://drive.google.com/file/d/1j2T4Qzc27oQ3a3DJHrI6AIQu2Pw-Awhr"
+                },
+                {
+                    "subject": "ຄະນິດສາດ",
+                    "image": "m6-maths-tg",
+                    "pdf": "https://drive.google.com/file/d/12X1mfoEgGMOdQTFkEt7ApEsC8AUu5R_u"
+                },
+                {
+                    "subject": "ເຄມີສາດ",
+                    "image": "m6-chemistry-tg",
+                    "pdf": "https://drive.google.com/file/d/14OyW8GG3tyK3rcEVQUd2Y2cjyUAk5-SC"
+                },
+                {
+                    "subject": "ສິລະປະກຳ",
+                    "image": "m6-arts-tg",
+                    "pdf": "https://drive.google.com/file/d/1WF67pSFc2-wKPR6kntyLUdzqm0-nKyN6"
+                },
+                {
+                    "subject": "ສິລະປະດົນຕີ",
+                    "image": "m6-music-tg",
+                    "pdf": "https://drive.google.com/file/d/1fF_6Bzuerkd4AVVGEVjdpLW4GrXwOaMI"
+                },
+                {
+                    "subject": "ສຶກສາພົນລະເມືອງ",
+                    "image": "m6-civic-tg",
+                    "pdf": "https://drive.google.com/file/d/1fv0sOpnIgR5Ce6-dLJfTTOmB5PuJSQei"
+                },
+                {
+                    "subject": "ຊ່າງໄຟຟ້າ",
+                    "image": "m6-electric-tg",
+                    "pdf": "https://drive.google.com/file/d/1xZP3Y5tMPyQfyMBTia4ocDSZuB-W-6zo"
+                },
+                {
+                    "subject": "ຊ່າງລົດຍົນ",
+                    "image": "m6-automechanic-tg",
+                    "pdf": "https://drive.google.com/file/d/1qDYTvAu-cWsEJdNJll-ZXrE_VOaqzU9k"
+                },
+                {
+                    "subject": "ຊີວະວິທະຍາ",
+                    "image": "m6-biology-tg",
+                    "pdf": "https://drive.google.com/file/d/18YZuDcAAbNFYPdqfgbSrDURpuAshZVZa"
+                },
+                {
+                    "subject": "ທຸລະກິດ",
+                    "image": "m6-business-tg",
+                    "pdf": "https://drive.google.com/file/d/1nxQZEVUlD5cYkSHuMC_Jd69xawyZS0XZ"
+                },
+                {
+                    "subject": "ທຸລະກິດສຳລັບຮຽນຄວບກັບ 6 ສາຂາວິຊາ",
+                    "image": "m6-business6-tg",
+                    "pdf": "https://drive.google.com/file/d/1eKuIhtnvG7vGJHq66WzkIV_IZ0ktw8hQ"
+                },
+                {
+                    "subject": "ເທັກໂນໂລຊີຂໍ້ມູນຂ່າວສານ & ການສື່ສານ",
+                    "image": "m6-ict-tg",
+                    "pdf": "https://drive.google.com/file/d/1Ad2xuvNMYeSNMQjGuzNrQdKKaajUzeXd"
+                },
+                {
+                    "subject": "ປະຫວັດສາດ",
+                    "image": "m6-history-tg",
+                    "pdf": "https://drive.google.com/file/d/1GqmhNTr_Ud_FVbOrEZCryqZc0Uvm_906"
+                },
+                {
+                    "subject": "ພະລະສຶກສາ",
+                    "image": "m6-physical-tg",
+                    "pdf": "https://drive.google.com/file/d/1ccD7wC9d5S_D0czyvj9Pu-qvQh7HAspV"
+                },
+                {
+                    "subject": "ພາສາຝຣັ່ງ",
+                    "image": "m6-french-tg",
+                    "pdf": "https://drive.google.com/file/d/1SQRPWZfWWnPnySDSmoukJ1TZt6fU9-mH"
+                },
+                {
+                    "subject": "ພາສາລາວ",
+                    "image": "m6-lao-tg",
+                    "pdf": "https://drive.google.com/file/d/1C-NFj4Y78tMgLdHYniyxPyJeGzfNVUNw"
+                },
+                {
+                    "subject": "ພາສາອັງກິດ",
+                    "image": "m6-english-tg",
+                    "pdf": "https://drive.google.com/file/d/1PUq2aTiHTJHcUARMDEXr2_Nwo6_8rfac"
+                },
+                {
+                    "subject": "ພູມສາດ",
+                    "image": "m6-geography-tg",
+                    "pdf": "https://drive.google.com/file/d/1fc2Jh8sJsbsYcdA1H_EVOj1XCN9WSeuz"
+                },
+                {
+                    "subject": "ຟີຊິກສາດ",
+                    "image": "m6-physics-tg",
+                    "pdf": "https://drive.google.com/file/d/1ZIVJmnLhMyqc7fivYXmFFAirPcytVpTO"
+                },
+                {
+                    "subject": "ໂລຫະວິທະຍາ",
+                    "image": "m6-metal-tg",
+                    "pdf": "https://drive.google.com/file/d/1x8a5elSI0c1InY63iC7oq4kAM1CWQB1I"
+                },
+                {
+                    "subject": "ວັນນະຄະດີ",
+                    "image": "m6-literature-tg",
+                    "pdf": "https://drive.google.com/file/d/1a9QZ6cV_nVhG6kTgbFnk063xmQFG-Ng9"
+                }
+            ]
+        },
+        {
+            "grade": "ປຶ້ມຄູ່ມືຄູ ມ7",
+            "books": [
+                {
+                    "subject": "ຄະນິດສາດ",
+                    "image": "m7-maths-tg",
+                    "pdf": "https://drive.google.com/file/d/1lRmq5RhhdxY8A_WFgBU-85ht7ZZnkJBh"
+                },
+                {
+                    "subject": "ເຄມີສາດ",
+                    "image": "m7-chemistry-tg",
+                    "pdf": "https://drive.google.com/file/d/1LEul-tgCWFkoE77g96RqPKWgzaez3X4w"
+                },
+                {
+                    "subject": "ສຶກສາພົນລະເມືອງ",
+                    "image": "m7-civic-tg",
+                    "pdf": "https://drive.google.com/file/d/1avx7UZG8JtyYG5C_9QDdFdl1SCcW1qam"
+                },
+                {
+                    "subject": "ຊີວະວິທະຍາ",
+                    "image": "m7-biology-tg",
+                    "pdf": "https://drive.google.com/file/d/19SOUKMhKyCUhaqXLqRKH957oFaq369fA"
+                },
+                {
+                    "subject": "ເທັກໂນໂລຊີຂໍ້ມູນຂ່າວສານ & ການສື່ສານ",
+                    "image": "m7-ict-tg",
+                    "pdf": "https://drive.google.com/file/d/1GM6N93qleaxpZZ9WNq4ozSa8PuIH3D6e"
+                },
+                {
+                    "subject": "ປະຫວັດສາດ",
+                    "image": "m7-history-tg",
+                    "pdf": "https://drive.google.com/file/d/1oB_DjQgYd72mcePTpsq8AYLHzDeR5s0T"
+                },
+                {
+                    "subject": "ພະລະສຶກສາ",
+                    "image": "m7-physical-tg",
+                    "pdf": "https://drive.google.com/file/d/1Mg9vKuyDLXQaMgmCYAWyuZpz5_VF6oTa"
+                },
+                {
+                    "subject": "ພາສາຝຣັ່ງ",
+                    "image": "m7-french-tg",
+                    "pdf": "https://drive.google.com/file/d/1Rhd57qhD2XItVuN4U_Se1ULJHgBRsOpY"
+                },
+                {
+                    "subject": "ພາສາລາວ",
+                    "image": "m7-lao-tg",
+                    "pdf": "https://drive.google.com/file/d/1F4AaPfTdseNRV5YHWVczqBfv1_ReLjKn"
+                },
+                {
+                    "subject": "ພາສາອັງກິດ",
+                    "image": "m7-english-tg",
+                    "pdf": "https://drive.google.com/file/d/1VqhQBKIwTT33GfBOG-9WWD0YSEDRurp3"
+                },
+                {
+                    "subject": "ພູມສາດ",
+                    "image": "m7-geography-tg",
+                    "pdf": "https://drive.google.com/file/d/1-ux35vcCYUnZpfQhXT9sWVeO0qqL9OEM"
+                },
+                {
+                    "subject": "ຟີຊິກສາດ",
+                    "image": "m7-physics-tg",
+                    "pdf": "https://drive.google.com/file/d/16ckVMIjLHB31Lbp4k6LwZrgNjBaQKR6k"
+                },
+                {
+                    "subject": "ວັນນະຄະດີ",
+                    "image": "m7-literature-tg",
+                    "pdf": "https://drive.google.com/file/d/1qKsXmCZKNGaShp5tSDmQ3sm-lsLGEGDb"
+                },
+                {
+                    "subject": "ວັນນະຄະດີເກົາຫຼີ",
+                    "image": "m7-literature-korea",
+                    "pdf": "https://drive.google.com/file/d/1AfaLVF89RWfr0DvEaM0feWzYoeP7NITT"
+                }
+            ]
+        }
+    ]
+}
