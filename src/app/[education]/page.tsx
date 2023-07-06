@@ -1,7 +1,7 @@
 import BookData from "@/types"
 import Link from "next/link"
-
-import ExportedImage from "next-image-export-optimizer"
+// import ExportedImage from "next-image-export-optimizer"
+import Image from "next/image"
 import getData from "@/utils/getData"
 type Props = {
   params: {
@@ -34,7 +34,7 @@ export default async function Page({ params }: Props) {
               return (
                 <li key={subject}>
                   <Link href={`/${education}/${image}`} className="group space-y-2">
-                    <ExportedImage src={require(`@/assets/images/${education}/${image}.jpg`).default} alt={`${grade} - ${subject}`} placeholder="blur" className="aspect-[8/11] rounded-lg" />
+                    <Image src={require(`@/assets/images/${education}/${image}.jpg`).default} alt={`${grade} - ${subject}`} placeholder="blur" className="aspect-[8/11] rounded-lg object-cover" />
                     <p className="text-center text-sm transition group-hover:text-sky-400">{subject}</p>
                   </Link>
                 </li>

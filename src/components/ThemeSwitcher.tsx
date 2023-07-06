@@ -28,22 +28,22 @@ const settings = [
 ]
 
 export default function ThemeSwitcher() {
-  const [mounted, setMounted] = useState(false)
   const { theme, setTheme } = useTheme()
+  // const [mounted, setMounted] = useState(false)
 
-  // useEffect only runs on the client, so now we can safely show the UI
-  useEffect(() => {
-    setMounted(true)
-  }, [])
+  // // useEffect only runs on the client, so now we can safely show the UI
+  // useEffect(() => {
+  //   setMounted(true)
+  // }, [])
 
-  if (!mounted) {
-    return (
-      <button className="text-slate-700 transition  hover:text-sky-400 dark:text-white dark:hover:text-sky-400">
-        <span className="sr-only">Theme Switcher</span>
-        {theme === "light" ? <SunIcon className="h-8 w-8" /> : <MoonIcon className="h-8 w-8" />}
-      </button>
-    )
-  }
+  // if (!mounted) {
+  //   return (
+  //     <button className="text-slate-700 transition  hover:text-sky-400 dark:text-white dark:hover:text-sky-400">
+  //       <span className="sr-only">Theme Switcher</span>
+  //       {theme === "light" ? <SunIcon className="h-8 w-8" /> : <MoonIcon className="h-8 w-8" />}
+  //     </button>
+  //   )
+  // }
   return (
     <Listbox value={theme} onChange={setTheme}>
       <Listbox.Label className="sr-only">Theme Switcher</Listbox.Label>

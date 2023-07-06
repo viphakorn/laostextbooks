@@ -28,13 +28,13 @@ export default function NavigationMenu() {
         <Menu.Items as="ul" className="absolute top-full mt-4 rounded-md border-2 border-slate-900/10 bg-white shadow-lg dark:border-sky-400/10 dark:bg-slate-900">
           {links.map(({ link, label, icon: Icon }) => (
             <Menu.Item as="li" key={link}>
-              {({ close, active }) => (
+              {({ close }) => (
                 <Link
                   href={link}
                   onClick={close}
                   className={twMerge(
                     "flex items-center gap-4 px-8 py-4 text-slate-700 transition hover:bg-slate-100 hover:text-sky-400 dark:text-white dark:hover:bg-slate-800 dark:hover:text-sky-400",
-                    pathname === link && "bg-slate-100 text-sky-400 dark:bg-slate-800 dark:text-sky-400"
+                    pathname === link || pathname === "/laostextbooks/" || (pathname?.includes(link) && link !== "/") ? " text-sky-400 dark:text-sky-400" : ""
                   )}
                 >
                   <Icon className="h6 w-6" />

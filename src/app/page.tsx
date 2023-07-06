@@ -1,7 +1,8 @@
 import Educator from "@/assets/svg/educator.svg"
 import Link from "next/link"
-import  links  from "@/components/Links"
-import ExportedImage from "next-image-export-optimizer"
+import links from "@/components/Links"
+// import ExportedImage from "next-image-export-optimizer"
+import Image from "next/image"
 
 export default function Home() {
   return (
@@ -12,7 +13,7 @@ export default function Home() {
           <br />
           ປຶ້ມຄູ່ມືຄູ
         </h1>
-        <ExportedImage src={Educator} alt={"Educator"} className="h-1/2 w-full max-w-sm md:h-auto md:w-1/2" />
+        <Image src={Educator} alt={"Educator"} className="h-1/2 w-full max-w-sm md:h-auto md:w-1/2" />
       </section>
       <ul className="grid h-1/2 items-center rounded-2xl border-2 p-4 dark:border-sky-400/10 dark:bg-slate-900 sm:grid-cols-2 md:p-8">
         {links.slice(1).map(({ label, link, icon: Icon }) => (

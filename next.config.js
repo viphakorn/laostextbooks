@@ -1,23 +1,26 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   output: "export",
+  distDir: "dist",
   trailingSlash: true,
   images: {
     loader: "custom",
-    imageSizes: [16, 32, 48, 64, 96, 128, 256, 384],
-    deviceSizes: [640, 750, 828, 1080, 1200, 1920, 2048, 3840],
+    loaderFile: "./src/app/image.ts",
+    // imageSizes: [128, 256],
+    // deviceSizes: [640, 750, 828, 1080, 1200],
+    // formats: ["image/avif", "image/webp"],
   },
   transpilePackages: ["next-image-export-optimizer"],
   env: {
     nextImageExportOptimizer_imageFolderPath: "public/images",
-    nextImageExportOptimizer_exportFolderPath: "out",
+    nextImageExportOptimizer_exportFolderPath: "dist",
     nextImageExportOptimizer_quality: 75,
     nextImageExportOptimizer_storePicturesInWEBP: true,
-    nextImageExportOptimizer_exportFolderName: "nextImageExportOptimizer",
+    nextImageExportOptimizer_exportFolderName: "images",
 
     // If you do not want to use blurry placeholder images, then you can set
     // nextImageExportOptimizer_generateAndUseBlurImages to false and pass
-    // `placeholder="empty"` to all <ExportedImage> components.
+    // `placeholder="empty"` to all <Image> components.
     nextImageExportOptimizer_generateAndUseBlurImages: true,
   },
 }
