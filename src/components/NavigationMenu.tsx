@@ -34,7 +34,7 @@ export default function NavigationMenu() {
                   onClick={close}
                   className={twMerge(
                     "flex items-center gap-4 px-8 py-4 text-slate-700 transition hover:bg-slate-100 hover:text-sky-400 dark:text-white dark:hover:bg-slate-800 dark:hover:text-sky-400",
-                    pathname === link || pathname === "/laostextbooks/" || (pathname?.includes(link) && link !== "/") ? " text-sky-400 dark:text-sky-400" : ""
+                    pathname === link || pathname === "/laostextbooks/" && link === "/" || (pathname?.includes(link) && link !== "/") ? " text-sky-400 dark:text-sky-400" : ""
                   )}
                 >
                   <Icon className="h6 w-6" />
