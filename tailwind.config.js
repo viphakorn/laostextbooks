@@ -7,7 +7,15 @@ module.exports = {
     extend: {
       height: {
         screen: ["100vh /* fallback for Opera, IE and etc. */", "100dvh"],
+        "screen-cut": ["calc(100vh - 4rem)", "calc(100dvh - 4rem)"],
       },
+      minHeight: {
+        screen: ["100vh /* fallback for Opera, IE and etc. */", "100dvh"],
+      },
+      maxHeight: {
+        screen: ["100vh /* fallback for Opera, IE and etc. */", "100dvh"],
+      },
+
       container: {
         center: true,
         padding: "1rem",

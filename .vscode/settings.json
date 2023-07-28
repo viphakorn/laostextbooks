@@ -1,13 +1,14 @@
 {
   "cSpell.words": ["laostextbooks", "ສິລະປະກຳ", "ສິລະປະດົນຕີ", "ພະລະສຶກສາ", "ພາສາອັງກິດ", "ມແບບຮຽນປະຖົມ", "ມແບບຮຽນມັດທະຍົມ", "ມືຄູ", "ມືປະຖົມ", "ມືມັດທະຍົມ", "ເວັບໄຊທ໌ເພື່ອການສຶກສາ", "ຫັດຖະກຳ"],
   "files.exclude": {
-    "**/.git": false,
+    "**/.git": true,
     "**/.svn": true,
     "**/.hg": true,
     "**/CVS": true,
     "**/.DS_Store": true,
     "**/Thumbs.db": true,
     "**/.next": true,
-    "**/node_modules": false
+    "**/node_modules": true,
+    "/dist": true
   }
 }

@@ -12,7 +12,7 @@ export async function generateMetadata({ params }: Props) {
   const book = bookData.grades.flatMap((grade) => grade.books).find((book) => book.image === params.book)!
 
   return {
-    title: book.subject,
+    title: `${book.subject} ${params.book.charAt(0).replace(/p/g, "ປ.").replace(/m/g, "ມ.")}${params.book.charAt(1)}`,
     description: book.subject,
   }
 }
@@ -30,7 +30,7 @@ export default async function Page({ params }: Props) {
 
   return (
     <main>
-      <iframe src={`${book.pdf}/preview`} allowFullScreen={true} className="mx-auto h-[calc(100dvh-4rem)] w-full max-w-[800px]"></iframe>
+      <iframe src={`${book.pdf}/preview`} allowFullScreen={true} className="mx-auto h-screen-cut w-full max-w-[800px]"></iframe>
     </main>
   )
 }

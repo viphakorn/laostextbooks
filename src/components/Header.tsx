@@ -4,7 +4,7 @@ import Link from "next/link"
 //  import ExportedImage from "next-image-export-optimizer"
  import Image from "next/image"
 
- import Logo from "@/assets/svg/logo.svg"
+ import Logo from "public/svg/logo.svg"
 
  import ThemeSwitcher from "./ThemeSwitcher"
  import NavigationMenu from "./NavigationMenu"
