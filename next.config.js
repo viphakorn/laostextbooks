@@ -4,9 +4,8 @@ const nextConfig = {
   distDir: "dist",
   trailingSlash: true,
   images: {
-    unoptimized: true,
-    // loader: "custom",
-    // loaderFile: "./src/app/image.ts",
+    loader: "custom",
+    loaderFile: "./src/app/image.ts",
     // imageSizes: [128, 256],
     // deviceSizes: [640, 750, 828, 1080, 1200],
     // formats: ["image/avif", "image/webp"],
