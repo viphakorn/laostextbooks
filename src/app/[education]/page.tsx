@@ -33,7 +33,7 @@ import Link from "next/link"
                return (
                  <li key={subject}>
                    <Link href={`/${education}/${image}`} className="group space-y-2">
-                     <Image src={require(`public/images/${education}/${image}.webp`).default} alt={`${grade} - ${subject}`} placeholder="blur" className="aspect-[8/11] rounded-lg object-cover" />
+                     <Image src={require(`public/images/jpg/${education}/${image}.jpg`).default} alt={`${grade} - ${subject}`} placeholder="blur" className="aspect-[8/11] rounded-lg object-cover" />
                      <p className="text-center text-sm transition group-hover:text-sky-400">{subject}</p>
                    </Link>
                  </li>
